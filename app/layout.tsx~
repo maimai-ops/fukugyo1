@@ -1,0 +1,5 @@
+export const metadata = {
+  title: "Sample Service | LP",
+  description: "Next.js(App Router) + TypeScript + TailwindのサンプルLP",
+};
+
